@@ -257,7 +257,7 @@ p {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #b8a07e;
+  color: #17408B;
 }
 
 .navbar .dropdown ul {
@@ -842,28 +842,28 @@ p {
 /*--------------------------------------------------------------
 # Journal
 --------------------------------------------------------------*/
-#contact {
+#source {
   height: auto;
   width: 100%;
   background-color: gainsboro;
 }
 
-.contact-details {
+.source-details {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.contact-details li {
+.source-details li {
   padding-bottom: 10px;
 }
 
-#contact input, #contact textarea {
+#source input, #source textarea {
   width: 100%;
   margin-bottom: 5px;
 }
 
-#contact textarea {
+#source textarea {
   min-height: 160px;
 }
 
@@ -1179,8 +1179,8 @@ blockquote {
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
-  /* Contact */
-  .contact-contact {
+  /* source */
+  .source-source {
     margin-bottom: 30px;
   }
   /* Footer */
@@ -1249,8 +1249,8 @@ blockquote {
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
-  /* Contact */
-  .contact-contact {
+  /* source */
+  .source-source {
     margin-bottom: 30px;
   }
   /* Footer */
@@ -1319,8 +1319,8 @@ blockquote {
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
-  /* Contact */
-  .contact-contact {
+  /* source */
+  .source-source {
     margin-bottom: 30px;
   }
   /* Footer */
@@ -1388,8 +1388,8 @@ blockquote {
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
-  /* Contact */
-  .contact-contact {
+  /* source */
+  .source-source {
     margin-bottom: 30px;
   }
   /* Footer */
@@ -1457,8 +1457,8 @@ blockquote {
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
-  /* Contact */
-  .contact-contact {
+  /* source */
+  .source-source {
     margin-bottom: 30px;
   }
   /* Footer */
