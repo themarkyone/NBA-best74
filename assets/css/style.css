@@ -539,7 +539,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #17408B;
 }
 
 #about .div-img-bg .about-img img {
@@ -556,6 +556,7 @@ p {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
+  color: #b8a07e;
 }
 
 #about .about-descr .separator {
@@ -644,7 +645,7 @@ p {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #17408B;
 }
 
 #portfolio #portfolio-flters li:last-child {
